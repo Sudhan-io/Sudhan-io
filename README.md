@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a enginnering student from India 📚<br>I'm passionate about learning Machine Learning,deep learning and neural networks 👾<br> I wish implement autonomous decision making systems which would benefit people of all kind 🎓<br><br>
+I'm a enginnering student from India 📚<br>I'm passionate about exploring the concepts of Machine Learning,deep learning and neural networks 👾<br> I wish implement autonomous decision making systems which would benefit people of all kind 🎓<br><br>
 
 
 # 💻 Tech Stack:
