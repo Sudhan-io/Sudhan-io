@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm a enginnering student from India 📚<br>I'm passionate about exploring the concepts of Machine Learning,deep learning and neural networks 👾<br> I wish implement autonomous decision making systems which would benefit people of all kind 🎓<br><br>
+Hey there! I'm an engineering student from India 🇮🇳, diving deep into the fascinating world of **Machine Learning**, **Deep Learning**, and **Neural Networks**. 🤖✨ <br>  
+💡 I’m passionate about building **autonomous decision-making systems** that can make a real impact and benefit people across the globe. 🌍 <br><br>  
+
+🚀 Always curious, always learning, and ready to take on the next big challenge!
 
 
 # 💻 Tech Stack:
