@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hey there! I'm an engineering student from India 🇮🇳, diving deep into the fascinating world of **Machine Learning**, **Deep Learning**, and **Neural Networks**. 🤖✨ <br>  
-💡 I’m passionate about building **autonomous decision-making systems** that can make a real impact and benefit people across the globe. 🌍 <br><br>  
+Hey wassup! I'm an engineering student from India 🇮🇳, I like to **Explore New Concepts** which I find intresting and helpful ;)... 🤖✨ <br> 
+<!--💡 I’m passionate about building **autonomous decision-making systems** that can make a real impact and benefit people across the globe. 🌍 <br><br>  -->
 
 🚀 Always curious, always learning, and ready to take on the next big challenge!
 
