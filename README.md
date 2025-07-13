@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hey wassup! I'm an engineering student from India 🇮🇳, I like to **Explore New Concepts** which I find intresting and helpful ;)... ✨ <br> 
 <!--💡 I’m passionate about building **autonomous decision-making systems** that can make a real impact and benefit people across the globe. 🌍 <br><br>  -->
-#Momentum compounds...:
+
+# Momentum compounds...:
 
 " There are infinite chances until I die " - Monkey .D. Luffy
 
