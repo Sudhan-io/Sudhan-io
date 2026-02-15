@@ -1,7 +1,7 @@
 #  Hey, I’m Sudhan
 
 Engineering student from India 🇮🇳  
-Building systems that listen, think, and evolve.
+I build which i think would build me internally and externally
 
 ---
 
