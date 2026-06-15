@@ -5,11 +5,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Sudhan!" alt="Typing SVG" /></a>
 </div>
 
-#  Hey, I’m Sudhan
 
-Engineering student from India 🇮🇳  
-I build which i think would build me internally and externally
 
+- An Engineering student from India  
+- Passionate about building scalable intelligent systems that makes life easier and more productive.
 ---
 
 ## ⚡ About Me
@@ -19,7 +18,7 @@ I like exploring concepts deeply — especially the ones that can actually build
 Currently working on:
 
 -  CNN-based Musical Instrument Recognition (Deployed)
--  Applied Cryptography Projects
+-  Applied Cryptography Project
 
 
 ---
@@ -77,4 +76,4 @@ Adapt and improvise.
 
 ---
 
-⭐ Exploring AI + systems engineering. Always building.
+⭐ Exploring AI + systems engineering. Always building and learning.
