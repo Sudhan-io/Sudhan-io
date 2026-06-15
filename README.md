@@ -13,7 +13,7 @@
 
 ## ⚡ About Me
 
-I like exploring concepts deeply — especially the ones that can actually build something meaningful.
+I like diving deep into various topics and learning and updating my knowledge.
 
 Currently working on:
 
