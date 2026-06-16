@@ -15,7 +15,7 @@
 
 I like diving deep into various topics and learning and updating my knowledge.
 
-Complted projects:
+Completed projects:
 
 -  CNN-based Musical Instrument Recognition (Deployed)
 -  Applied Cryptography Project
