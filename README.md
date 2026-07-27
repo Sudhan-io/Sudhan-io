@@ -62,7 +62,7 @@ https://instrunet-ai-g5ra8bxquz2djj8qnbpjnz.streamlit.app/
 
 > “There are infinite chances until I die.” – Monkey D. Luffy
 
-Adapt and improvise.
+> Adapt and improvise.
 
 ---
 
