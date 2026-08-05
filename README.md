@@ -95,12 +95,13 @@
 
 <br/>
 
+<!-- 
 ## 🐍 GitHub Contribution Snake 
 <!-- The image below will be broken until you follow Step 2 from my previous message, but once you do, it will be an animated snake eating your contribution graph! -->
-<div align="center">
+<!--<div align="center">
   <img src="https://raw.githubusercontent.com/Sudhan-io/Sudhan-io/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
-
+-->
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
