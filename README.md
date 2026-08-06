@@ -37,11 +37,13 @@
     </td>
     <!-- Right Column: Glassmorphic Tech Stack Icons -->
     <td width="50%" valign="top">
-      <h2> Tech Arsenal</h2>
-      <div align="center">
-        <!-- These icons automatically generate incredibly clean, rounded SVG badges -->
+  <h2 align="center">Tech Arsenal</h2>
+        <div align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,java,js,mysql,git,github,tensorflow,react,nodejs&theme=dark&perline=3" alt="Tech Stack" />
+          <img
+            src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,tensorflow,mysql,git,github,linux,ubuntu,bash,vscode&theme=dark&perline=4"
+            alt="Tech Arsenal"
+          />
         </a>
       </div>
     </td>
@@ -93,7 +95,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhan-io&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-<br/>
+<!--<br/>
 
 <!-- 
 ## 🐍 GitHub Contribution Snake 
