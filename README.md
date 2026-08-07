@@ -91,7 +91,7 @@
 
 <div align="center">
   <!-- TokyoNight theme looks incredibly cool -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudhan-io&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sudhan-io&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhan-io&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
